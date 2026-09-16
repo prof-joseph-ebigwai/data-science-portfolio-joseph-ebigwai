@@ -1,5 +1,4 @@
-### 1. [Loan Default Prediction](./loan-default-prediction)
-
+# Loan Default Prediction
 ## Project Overview
 
 This project develops a machine-learning approach for identifying borrowers who may be at elevated risk of loan default or severe delinquency.

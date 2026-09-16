@@ -56,7 +56,7 @@ Python, Pandas, Scikit-learn, classification, model validation, imbalanced data,
 
 ---
 
-### 2. EasyVisa – Visa Certification Prediction
+### 2. [EasyVisa – Visa Certification Prediction](./easyvisa-visa-certification)
 
 A supervised machine-learning project examining factors associated with visa certification outcomes.
 

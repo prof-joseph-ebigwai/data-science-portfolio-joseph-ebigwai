@@ -35,7 +35,7 @@ This portfolio presents selected work completed during my data science studies a
 
 ## Selected Projects
 
-### 1. Loan Default Prediction
+### 1. [Loan Default Prediction](./loan-default-prediction)
 
 A machine-learning credit-risk project developed to identify borrowers at elevated risk of loan default or severe delinquency.
 

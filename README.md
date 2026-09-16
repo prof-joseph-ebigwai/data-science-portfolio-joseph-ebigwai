@@ -69,7 +69,7 @@ Python, EDA, classification, Random Forest, model evaluation, class-imbalance tr
 
 ---
 
-### 3. E-News Express – A/B Testing and Business Analytics
+### 3. [E-News Express – A/B Testing and Business Analytics](./enews-express-ab-testing)
 
 A statistical and business analytics project evaluating user engagement and conversion behaviour associated with different website experiences.
 
